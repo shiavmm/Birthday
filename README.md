@@ -1,6 +1,6 @@
-# 🎂 Anjali's Birthday Scrapbook
+# 🎂 Birthday Scrapbook
 
-A personal, interactive, mobile-first digital scrapbook website built especially for **Anjali** from **Shivam** for her birthday (**October 21, 2026**).
+A personal, interactive, mobile-first digital scrapbook website built birthday.
 
 Designed with a vintage handmade scrapbook aesthetic featuring warm ivory and cream paper textures, cherry-red accents, blush tones, Polaroid photo frames with washi tape, stamps, and heartfelt personal letters.
 
